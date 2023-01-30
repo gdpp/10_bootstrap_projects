@@ -26,6 +26,6 @@
 9. Analytics tabs.
 10. Payment Form.
 
-You can check the projects on the following live demo: [link]().
+You can check the projects on the following live demo: [link](https://gdpp.github.io/10_bootstrap_projects/).
 
 :)
